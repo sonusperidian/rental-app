@@ -1,0 +1,20 @@
+.registration_form{
+    margin: 5rem 10rem;
+
+
+}
+.btn-mt{
+    margin-top: 1rem;
+}
+
+.btn{
+    background-color: rgb(179, 172, 172);
+    color: green;
+   
+
+    &:active,
+    &:hover{
+        background-color: green;
+        color: white;
+    }
+}
